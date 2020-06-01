@@ -4,7 +4,7 @@ function myFunction() {
 
   if (pass == answer) {
     alert("Domo arigato 😉");
-    window.location.assign("https://www.whoismrrobot.com/");
+    window.location.assign("./chapter_two.html");
   }
   else {
     alert("🙅‍ Try again ");
