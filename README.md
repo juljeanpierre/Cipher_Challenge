@@ -2,8 +2,8 @@
 
 > Solve the quest by locating 2 keys. 
 
-  BLUE KEY
-  RED KEY
+  [BLUE KEY]
+  [RED KEY]
 
 > Your first set of instructions can be found in the below hidden message.
 
